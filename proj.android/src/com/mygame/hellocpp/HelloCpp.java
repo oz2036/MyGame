@@ -28,6 +28,8 @@ import org.cocos2dx.lib.Cocos2dxGLSurfaceView;
 
 import android.os.Bundle;
 
+// test eclipse push
+
 public class HelloCpp extends Cocos2dxActivity{
 	
     protected void onCreate(Bundle savedInstanceState){
